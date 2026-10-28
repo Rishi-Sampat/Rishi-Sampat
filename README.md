@@ -35,6 +35,8 @@
 
 **The specialist toolbox**
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="30%" align="right" alt="Chill floating character" />
+
 | Domain | Technologies |
 |---|---|
 | Robotics & simulation | ROS 2, Gazebo, MoveIt 2, NVIDIA Isaac Sim / Lab |
@@ -43,6 +45,8 @@
 | Vision & perception | OpenCV, computer vision, SLAM, LiDAR |
 | Communication | IoT, wireless communication, sensors, LoRa, Zigbee |
 | Design & engineering | MATLAB, CAD, 3D printing, Proteus, Vivado |
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="28" alt="Pac-Man animated separator" />
 
