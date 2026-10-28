@@ -1,4 +1,3 @@
-
 <!-- ===== ANIMATED HEADER ===== -->
 
 <p align="center">
@@ -8,7 +7,7 @@
 <table>
   <tr>
     <td width="34%" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Retro Mario gaming animation" />
+      <img src="https://www.mariowiki.com/images/6/63/Mario_Running.gif" width="100%" alt="Retro Mario gaming animation" />
     </td>
     <td width="66%" valign="middle">
       <h2>Hey, I'm Rishi Sampat 👾</h2>
@@ -21,15 +20,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="28" alt="Pac-Man animated separator" />
 
 ### `01` / The Tech Playground
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="Animated technology logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Animated technology logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" alt="Animated technology logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="80" alt="Animated technology logo" />
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="80" alt="Animated technology logo" />
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80" alt="Animated technology logo" />
-</p>
 
 **Languages & development**
 
@@ -128,4 +118,3 @@
   <a href="https://www.linkedin.com/in/rishi-sampat/">LINKEDIN</a> ·
   <a href="mailto:rishisampat911@gmail.com">EMAIL</a>
 </p>
-```
