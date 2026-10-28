@@ -13,8 +13,7 @@
       <h2>Hey, I'm Rishi Sampat 👾</h2>
       <p>Curious about how things work, obsessed with how they can work better, and usually building something involving code, circuits, or a questionable amount of debugging.</p>
       <p>Exploring <b>AI, robotics, embedded systems, computer vision, and beyond</b> at Marwadi University.</p>
-      <p><a href="https://github.com/Rishi-Sampat">GitHub</a> · <a href="https://www.linkedin.com/in/rishi-sampat/">LinkedIn</a> · <a href="mailto:rishisampat911@gmail.com">Email me</a></p>
-    </td>
+     </td>
   </tr>
 </table>
 
