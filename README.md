@@ -1,3 +1,4 @@
+
 <!-- ===== ANIMATED HEADER ===== -->
 
 <p align="center">
@@ -83,11 +84,11 @@
 
 ### `03` / Achievement Unlocked
 
+<img src="./purple_civic_active_tuning.gif" width="180" align="right" alt="Purple Civic with animated laptop tuning code" />
+
 - 🥇 **Hack-X National-Level Hackathon** — IEEE WIE, Nirma University
 - 🥈 **DSC 3.0 National-Level Hackathon** — IEEE SPS, PDEU
 - 🏅 **Myosa Hackathon** — IEEE Sensors Council
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="180" align="right" alt="Mario retro gaming animation" />
 
 **Current mission:** Learn more, build better, experiment often, and ship projects that actually work.
 
@@ -98,7 +99,7 @@
 ### `04` / The Contribution Creature
 
 <p align="center">
-  <i>Feed the snake. Keep the commits coming.</i>
+  <i>Why settle for green squares when a snake can eat them</i>
 </p>
 
 <p align="center">
@@ -127,3 +128,4 @@
   <a href="https://www.linkedin.com/in/rishi-sampat/">LINKEDIN</a> ·
   <a href="mailto:rishisampat911@gmail.com">EMAIL</a>
 </p>
+```
