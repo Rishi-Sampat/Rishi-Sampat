@@ -118,7 +118,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rishi-Sampat">GITHUB</a> ·
   <a href="https://www.linkedin.com/in/rishi-sampat/">LINKEDIN</a> ·
   <a href="mailto:rishisampat911@gmail.com">EMAIL</a>
 </p>
